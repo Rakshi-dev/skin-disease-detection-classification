@@ -24,8 +24,7 @@ It helps identify common skin conditions using a trained deep learning model.
 ---
 
 ## Project Structure
-Skin disease detection and classification/
-│
+Skin disease detection and classification
 ├── app.py
 ├── templates/
 ├── static/
