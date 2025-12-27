@@ -21,8 +21,6 @@ It helps identify common skin conditions using a trained deep learning model.
 - OpenCV
 - HTML, CSS
 
----
-
 ```text
 Skin disease detection and classification/
 ├── app.py
@@ -33,6 +31,7 @@ Skin disease detection and classification/
 ├── model.h5
 ├── best_weights.h5
 └── README.md
+```
 
 ## How to Run the Project
 1. Clone the repository
