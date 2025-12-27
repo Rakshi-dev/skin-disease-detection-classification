@@ -23,8 +23,8 @@ It helps identify common skin conditions using a trained deep learning model.
 
 ---
 
-## Project Structure
-Skin disease detection and classification
+```text
+Skin disease detection and classification/
 ├── app.py
 ├── templates/
 ├── static/
@@ -34,7 +34,7 @@ Skin disease detection and classification
 ├── best_weights.h5
 └── README.md
 
-How to Run the Project
+## How to Run the Project
 1. Clone the repository
 git clone https://github.com/Rakshi-dev/skin-disease-detection-classification.git
 cd skin-disease-detection-classification
