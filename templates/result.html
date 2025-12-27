@@ -1,0 +1,15 @@
+{% extends "import.html" %}
+{% block content %}
+
+<center>
+    <br><h2> detection Result</h2><br>
+
+    <h3>Prediction: {{ prediction }}</h3>
+    {% if link %}
+        <p>{{ link|safe }}</p>
+    {% endif %}
+
+    <a href="/" class="btn btn-primary">Go Back</a>
+
+</center><br><br>
+{% endblock %}
